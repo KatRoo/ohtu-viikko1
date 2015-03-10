@@ -1,0 +1,146 @@
+/home/katri:
+total 5.5M
+drwxrwxr-x  2 katri katri 4.0K 30.10.2014 09:26 [0m[01;34mbin[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 17:59 [01;34mDesktop[0m
+drwx------  2 katri katri 4.0K 30.10.2014 10:41 [01;34mDocuments[0m
+drwxr-xr-x  2 katri katri 4.0K 30.10.2014 09:17 [01;34mDownloads[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 20:39 [01;34mkuvat[0m
+drwx------ 15 katri katri 4.0K 19.09.2012 17:59 [01;34mLibrary[0m
+drwxrwxr-x  2 katri katri 4.0K 30.10.2014 11:16 [01;34mlinuxfun[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mMusic[0m
+drwxr-xr-x  3 katri katri 4.0K 20.09.2012 14:05 [01;34mPictures[0m
+drwxr-xr-x  3 katri katri 4.0K 19.09.2012 17:59 [01;34mPublic[0m
+drwxr-xr-x  3 katri katri 4.0K 19.09.2012 20:39 [01;34mpublic_html[0m
+drwxrwxr-x  2 katri katri 4.0K 20.09.2012 14:17 [01;34mscripts[0m
+drwxr-xr-x  5 katri katri 4.0K 30.10.2014 09:22 [01;34mSublime Text 2[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mTemplates[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mVideos[0m
+-rw-rw-r--  1 katri katri   17 19.09.2012 22:08 bakup-log
+-rw-r--r--  1 katri katri 8.3K 19.09.2012 15:56 examples.desktop
+-rw-rw-r--  1 katri katri 5.5M 30.10.2014 09:21 [01;31mSublime Text 2.0.2 x64.tar.bz2[0m
+
+/home/katri:
+total 5.5M
+drwxrwxr-x  2 katri katri 4.0K 30.10.2014 09:26 [01;34mbin[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 17:59 [01;34mDesktop[0m
+drwx------  2 katri katri 4.0K 30.10.2014 10:41 [01;34mDocuments[0m
+drwxr-xr-x  2 katri katri 4.0K 30.10.2014 09:17 [01;34mDownloads[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 20:39 [01;34mkuvat[0m
+drwx------ 15 katri katri 4.0K 19.09.2012 17:59 [01;34mLibrary[0m
+drwxrwxr-x  2 katri katri 4.0K 30.10.2014 11:16 [01;34mlinuxfun[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mMusic[0m
+drwxr-xr-x  3 katri katri 4.0K 20.09.2012 14:05 [01;34mPictures[0m
+drwxr-xr-x  3 katri katri 4.0K 19.09.2012 17:59 [01;34mPublic[0m
+drwxr-xr-x  3 katri katri 4.0K 19.09.2012 20:39 [01;34mpublic_html[0m
+drwxrwxr-x  2 katri katri 4.0K 20.09.2012 14:17 [01;34mscripts[0m
+drwxr-xr-x  5 katri katri 4.0K 30.10.2014 09:22 [01;34mSublime Text 2[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mTemplates[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mVideos[0m
+-rw-rw-r--  1 katri katri   17 19.09.2012 22:08 bakup-log
+-rw-r--r--  1 katri katri 8.3K 19.09.2012 15:56 examples.desktop
+-rw-rw-r--  1 katri katri 5.5M 30.10.2014 09:21 [01;31mSublime Text 2.0.2 x64.tar.bz2[0m
+
+/home/katri:
+total 5.5M
+drwxrwxr-x  2 katri katri 4.0K 30.10.2014 09:26 [01;34mbin[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 17:59 [01;34mDesktop[0m
+drwx------  2 katri katri 4.0K 30.10.2014 10:41 [01;34mDocuments[0m
+drwxr-xr-x  2 katri katri 4.0K 30.10.2014 09:17 [01;34mDownloads[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 20:39 [01;34mkuvat[0m
+drwx------ 15 katri katri 4.0K 19.09.2012 17:59 [01;34mLibrary[0m
+drwxrwxr-x  2 katri katri 4.0K 30.10.2014 11:16 [01;34mlinuxfun[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mMusic[0m
+drwxr-xr-x  3 katri katri 4.0K 20.09.2012 14:05 [01;34mPictures[0m
+drwxr-xr-x  3 katri katri 4.0K 19.09.2012 17:59 [01;34mPublic[0m
+drwxr-xr-x  3 katri katri 4.0K 19.09.2012 20:39 [01;34mpublic_html[0m
+drwxrwxr-x  2 katri katri 4.0K 20.09.2012 14:17 [01;34mscripts[0m
+drwxr-xr-x  5 katri katri 4.0K 30.10.2014 09:22 [01;34mSublime Text 2[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mTemplates[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mVideos[0m
+-rw-rw-r--  1 katri katri   17 19.09.2012 22:08 bakup-log
+-rw-r--r--  1 katri katri 8.3K 19.09.2012 15:56 examples.desktop
+-rw-rw-r--  1 katri katri 5.5M 30.10.2014 09:21 [01;31mSublime Text 2.0.2 x64.tar.bz2[0m
+
+/home/katri:
+total 5.5M
+drwxrwxr-x  2 katri katri 4.0K 30.10.2014 09:26 [01;34mbin[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 17:59 [01;34mDesktop[0m
+drwx------  2 katri katri 4.0K 30.10.2014 10:41 [01;34mDocuments[0m
+drwxr-xr-x  2 katri katri 4.0K 30.10.2014 09:17 [01;34mDownloads[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 20:39 [01;34mkuvat[0m
+drwx------ 15 katri katri 4.0K 19.09.2012 17:59 [01;34mLibrary[0m
+drwxrwxr-x  2 katri katri 4.0K 30.10.2014 11:16 [01;34mlinuxfun[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mMusic[0m
+drwxr-xr-x  3 katri katri 4.0K 20.09.2012 14:05 [01;34mPictures[0m
+drwxr-xr-x  3 katri katri 4.0K 19.09.2012 17:59 [01;34mPublic[0m
+drwxr-xr-x  3 katri katri 4.0K 19.09.2012 20:39 [01;34mpublic_html[0m
+drwxrwxr-x  2 katri katri 4.0K 20.09.2012 14:17 [01;34mscripts[0m
+drwxr-xr-x  5 katri katri 4.0K 30.10.2014 09:22 [01;34mSublime Text 2[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mTemplates[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mVideos[0m
+-rw-rw-r--  1 katri katri   17 19.09.2012 22:08 bakup-log
+-rw-r--r--  1 katri katri 8.3K 19.09.2012 15:56 examples.desktop
+-rw-rw-r--  1 katri katri 5.5M 30.10.2014 09:21 [01;31mSublime Text 2.0.2 x64.tar.bz2[0m
+
+/home/katri:
+total 5.5M
+drwxrwxr-x  2 katri katri 4.0K 30.10.2014 09:26 [01;34mbin[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 17:59 [01;34mDesktop[0m
+drwx------  2 katri katri 4.0K 30.10.2014 10:41 [01;34mDocuments[0m
+drwxr-xr-x  2 katri katri 4.0K 30.10.2014 09:17 [01;34mDownloads[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 20:39 [01;34mkuvat[0m
+drwx------ 15 katri katri 4.0K 19.09.2012 17:59 [01;34mLibrary[0m
+drwxrwxr-x  2 katri katri 4.0K 30.10.2014 11:16 [01;34mlinuxfun[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mMusic[0m
+drwxr-xr-x  3 katri katri 4.0K 20.09.2012 14:05 [01;34mPictures[0m
+drwxr-xr-x  3 katri katri 4.0K 19.09.2012 17:59 [01;34mPublic[0m
+drwxr-xr-x  3 katri katri 4.0K 19.09.2012 20:39 [01;34mpublic_html[0m
+drwxrwxr-x  2 katri katri 4.0K 20.09.2012 14:17 [01;34mscripts[0m
+drwxr-xr-x  5 katri katri 4.0K 30.10.2014 09:22 [01;34mSublime Text 2[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mTemplates[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mVideos[0m
+-rw-rw-r--  1 katri katri   17 19.09.2012 22:08 bakup-log
+-rw-r--r--  1 katri katri 8.3K 19.09.2012 15:56 examples.desktop
+-rw-rw-r--  1 katri katri 5.5M 30.10.2014 09:21 [01;31mSublime Text 2.0.2 x64.tar.bz2[0m
+
+/home/katri:
+total 5.5M
+drwxrwxr-x  2 katri katri 4.0K 30.10.2014 09:26 [01;34mbin[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 17:59 [01;34mDesktop[0m
+drwx------  2 katri katri 4.0K 30.10.2014 10:41 [01;34mDocuments[0m
+drwxr-xr-x  2 katri katri 4.0K 30.10.2014 09:17 [01;34mDownloads[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 20:39 [01;34mkuvat[0m
+drwx------ 15 katri katri 4.0K 19.09.2012 17:59 [01;34mLibrary[0m
+drwxrwxr-x  2 katri katri 4.0K 30.10.2014 11:16 [01;34mlinuxfun[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mMusic[0m
+drwxr-xr-x  3 katri katri 4.0K 20.09.2012 14:05 [01;34mPictures[0m
+drwxr-xr-x  3 katri katri 4.0K 19.09.2012 17:59 [01;34mPublic[0m
+drwxr-xr-x  3 katri katri 4.0K 19.09.2012 20:39 [01;34mpublic_html[0m
+drwxrwxr-x  2 katri katri 4.0K 20.09.2012 14:17 [01;34mscripts[0m
+drwxr-xr-x  5 katri katri 4.0K 30.10.2014 09:22 [01;34mSublime Text 2[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mTemplates[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mVideos[0m
+-rw-rw-r--  1 katri katri   17 19.09.2012 22:08 bakup-log
+-rw-r--r--  1 katri katri 8.3K 19.09.2012 15:56 examples.desktop
+-rw-rw-r--  1 katri katri 5.5M 30.10.2014 09:21 [01;31mSublime Text 2.0.2 x64.tar.bz2[0m
+
+/home/katri:
+total 5.5M
+drwxrwxr-x  2 katri katri 4.0K 30.10.2014 09:26 [01;34mbin[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 17:59 [01;34mDesktop[0m
+drwx------  2 katri katri 4.0K 30.10.2014 10:41 [01;34mDocuments[0m
+drwxr-xr-x  2 katri katri 4.0K 30.10.2014 09:17 [01;34mDownloads[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 20:39 [01;34mkuvat[0m
+drwx------ 15 katri katri 4.0K 19.09.2012 17:59 [01;34mLibrary[0m
+drwxrwxr-x  2 katri katri 4.0K 30.10.2014 11:16 [01;34mlinuxfun[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mMusic[0m
+drwxr-xr-x  3 katri katri 4.0K 20.09.2012 14:05 [01;34mPictures[0m
+drwxr-xr-x  3 katri katri 4.0K 19.09.2012 17:59 [01;34mPublic[0m
+drwxr-xr-x  3 katri katri 4.0K 19.09.2012 20:39 [01;34mpublic_html[0m
+drwxrwxr-x  2 katri katri 4.0K 20.09.2012 14:17 [01;34mscripts[0m
+drwxr-xr-x  5 katri katri 4.0K 30.10.2014 09:22 [01;34mSublime Text 2[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mTemplates[0m
+drwxr-xr-x  2 katri katri 4.0K 19.09.2012 16:14 [01;34mVideos[0m
+-rw-rw-r--  1 katri katri   17 19.09.2012 22:08 bakup-log
+-rw-r--r--  1 katri katri 8.3K 19.09.2012 15:56 examples.desktop
+-rw-rw-r--  1 katri katri 5.5M 30.10.2014 09:21 [01;31mSublime Text 2.0.2 x64.tar.bz2[0m
