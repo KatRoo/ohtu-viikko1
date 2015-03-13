@@ -1,3 +1,4 @@
+Tehdään muutoksia
 /home/katri:
 total 5.5M
 drwxrwxr-x  2 katri katri 4.0K 30.10.2014 09:26 [0m[01;34mbin[0m

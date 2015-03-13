@@ -1,4 +1,4 @@
 #!/bin/bash
 #muutos skriptiin
-#toinen muutos, eikä vieläkään
+#toinen muutos
 echo "Today is `date +%m.%d.%Y`"
