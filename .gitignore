@@ -1,5 +1,5 @@
 *.xxx
 target/*
 OhtuVarasto/target/*
-*.*~
+*~
 EOF
