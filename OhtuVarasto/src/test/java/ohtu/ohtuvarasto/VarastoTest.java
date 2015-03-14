@@ -109,6 +109,6 @@ public class VarastoTest {
         //Laitetaan negatiivinen määrä kamaa
         varasto.lisaaVarastoon(-1);
         
-        assertEquals(0, varasto.getSaldo(), vertailuTarkkuus);        
+        assertEquals(100, varasto.getSaldo(), vertailuTarkkuus);        
     } 
 }
